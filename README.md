@@ -6,9 +6,7 @@ A website that displays, voting results from states and local governments
 ```bash
 npm install 
 
-<!-- spin dev server -->
 npm start
-
 ```
 
 ## License
