@@ -1,7 +1,7 @@
 # pollster-voting-app
 A website that displays, voting results from states and local governments
 
-# Install Project Dependencies
+## Install Project Dependencies
 
 ```bash
 npm install 
